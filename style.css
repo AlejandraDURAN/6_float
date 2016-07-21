@@ -1,0 +1,24 @@
+div{
+	background-color: pink;
+	border:  2px solid black;
+	height:300px;
+	width: 800px;
+	font-size: 10px;
+}
+
+.hijo{
+	background-color: blue;
+	height: 70px;
+	width: 200px;
+	font-size: 40px;
+
+}
+
+.floating{
+	float:right;
+	
+}
+.clearfix{
+	overflow:auto;
+	zoom:1;
+}
